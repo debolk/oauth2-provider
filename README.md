@@ -82,4 +82,4 @@ If neither are defined, the provider will utilize internal defaults as documente
 - [Jakob Buis](http://www.jakobbuis.nl)
 
 ## License
-Copyright 2015 Jakob Buis. This version of the provider is available under the MIT license. Please see the `LICENSE`` file for the complete text of the license.
+Copyright 2015 Jakob Buis. This version of the provider is available under the MIT license. Please see the `LICENSE` file for the complete text of the license.
